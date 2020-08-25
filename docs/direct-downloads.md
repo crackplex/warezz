@@ -218,6 +218,7 @@ sidebar_label: DDL
 - [up4pc](https://up4pc.com/) - Download PC Software including cracks via ZippyShare, GDrive and Mega.
 - [CB01.uno](https://cb01.gallery/) - (`IT`) - Movies, TV Shows and Animes.
 - [Release BB](http://rlsbb.ru/) - (`RU/ENG`) - Daily Source of Awesome Stuff.
+- [crackplex](https://crackplex.com/) - Direct Download Links Of Cracked Softwares, PC Games,Android Apps.
 
 ## File hosts
 
