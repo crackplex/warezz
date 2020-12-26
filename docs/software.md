@@ -9,6 +9,7 @@ sidebar_label: Software
 - [How to download snahp zippy files without using your computer space and bandwidth!](https://telegra.ph/How-to-download-snahp-zippy-files-without-using-your-computer-space-and-bandwidth-08-25)
 - [Guide: Adobe Acrobat Pro Installation and Patching (Working 18-06-2019)](https://raddle.me/f/Piracy/81445/guide-adobe-acrobat-pro-installation-and-patching-working-18)
 - [r/piracy/wiki/tools](https://www.removeddit.com/r/piracy/wiki/tools) - Windows/Office activation tools, and images/installers for Windows, Office + Adobe.
+- [CrackPlex.com](https://crackplex.com/) - Popular website for Modded/Cracked Softwares,Apps,PC Games,PHP Scripts,Android Scripts.
 - [nsane.down](https://www.nsanedown.com/) - A popular file-sharing forum focused on software.
 - [Appked](https://www.macbed.com/) - Mac application sharing site.
 - [/s/sjain_guides](https://saidit.net/s/sjain_guides) - Guides and downloads for CS:GO, Windows 10 gaming optimisations, and more.
